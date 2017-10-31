@@ -1,0 +1,17 @@
+.row #nav-bar ul{
+
+      float : right;
+      padding: 0 ;
+      margin : 0 ;
+      list-style: none;
+}
+.container {
+
+        margin-left: 15% ;
+        margin-right: 15%;
+}
+.container #introduction {
+
+        width : 33.33% ;
+
+}
